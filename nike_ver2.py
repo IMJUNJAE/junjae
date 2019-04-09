@@ -2,7 +2,7 @@
 ''' --------------------------------- INPUT YOUR CONFIG --------------------------------- '''
 MONITOR_DELAY = 30 # second, if your input 10, monitor interval 10 second
 PAGE_DELAY = 4 # Page to Page Delay second
-discord_webhook = 'HhK-pP6NlqNyapX5SIJjcWpgOexZSGJgIlfT679uuoYDFoPH9rpWaksqex--cTuvv5J4'
+discord_webhook = 'https://discordapp.com/api/webhooks/564057515776540672/HhK-pP6NlqNyapX5SIJjcWpgOexZSGJgIlfT679uuoYDFoPH9rpWaksqex--cTuvv5J4'
 startPage = 1
 endPage = 5 # example 1 ~ 5 -> include(1,2,3,4,5)
 
